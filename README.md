@@ -1,2 +1,5 @@
 # Mask-Object-Detection
-A project to 
+
+A project that develops a Mask Object detection deep neural network model.
+
+
