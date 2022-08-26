@@ -23,3 +23,17 @@ Some basic examples of applying the trained model to new inputs are shown below:
 
 
 As shown, the model can adapt to a range of scenes, both simple and complex. It also works surprisingly well on complex scenes with high numbers of people, which make the final trained model useful for real applications.
+
+
+
+## Inference Dashboard
+
+Predictions on new sets of images stored in a directory can be made using the inference dashboard, developed in Dash. In real-time the model will make predictions for the selected image using the chosen confidence level as a threshold.
+
+Some examples from the dashboard application are shown below for illustration.
+
+![Inference Dashboard 1](examples/dashboard_example_1.png?raw=True "Example of model predictions using the dashboard.")
+
+![Inference Dashboard 2](examples/dashboard_example_2.png?raw=True "Further example of model predictions on the dashboard.")
+
+![Inference Dashboard 3](examples/dashboard_example_3.png?raw=True "Another example of model predictions on the dashboard.")
