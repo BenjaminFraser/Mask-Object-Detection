@@ -115,7 +115,7 @@ app.layout = html.Div(
         # app title
         dbc.Row([
                 html.Div([
-                    html.H1("FaceMask Detection App"),
+                    html.H1("Face-Mask Detection"),
                     dcc.Markdown(''' 
                         *Human Face Mask Analysis, powered by Object Detection.*
                         '''),
